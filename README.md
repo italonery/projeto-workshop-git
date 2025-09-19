@@ -2,4 +2,4 @@
 
 ## Informações de Contato
 
-**E-mail:** italo.souza@gsoftware.com.br
+**E-mail:** italo.souza@gsoftware.com
